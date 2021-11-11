@@ -1,0 +1,28 @@
+img{
+    border-radius: 100%;
+}
+
+#contact {
+    background: #f8f9fa;
+    padding: 100px 0;
+}
+
+
+
+.contact img {
+    width: 60px;
+    transition: 0.5s;
+}
+
+.contact a:hover img {
+    transform: translateY(-10px);
+}
+
+.interests img {
+    width: 60px;
+    transition: 0.5s;
+}
+
+.interests a:hover img {
+    transform: translateY(-10px);
+}
